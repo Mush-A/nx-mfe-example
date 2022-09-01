@@ -15,6 +15,12 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@govi/shared/dashboard/ui-last-value": [
+        "libs/shared/dashboard/ui-last-value/src/index.ts"
+      ],
+      "@govi/shared/dashboard/ui-time-series": [
+        "libs/shared/dashboard/ui-time-series/src/index.ts"
+      ],
       "@govi/shared/ui-footer": ["libs/shared/ui-footer/src/index.ts"],
       "@govi/shared/ui-header": ["libs/shared/ui-header/src/index.ts"]
     }
