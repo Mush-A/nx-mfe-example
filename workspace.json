@@ -4,6 +4,8 @@
   "projects": {
     "dashboard": "apps/dashboard",
     "dashboard-e2e": "apps/dashboard-e2e",
+    "shared-ui-footer": "libs/shared/ui-footer",
+    "shared-ui-header": "libs/shared/ui-header",
     "shell": "apps/shell",
     "shell-e2e": "apps/shell-e2e"
   }

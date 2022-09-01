@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@govi/shared/ui-footer": ["libs/shared/ui-footer/src/index.ts"],
+      "@govi/shared/ui-header": ["libs/shared/ui-header/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
