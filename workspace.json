@@ -4,6 +4,7 @@
   "projects": {
     "dashboard": "apps/dashboard",
     "dashboard-e2e": "apps/dashboard-e2e",
+    "features-feature-dashboard": "libs/features/feature-dashboard",
     "shared-dashboard-ui-last-value": "libs/shared/dashboard/ui-last-value",
     "shared-dashboard-ui-time-series": "libs/shared/dashboard/ui-time-series",
     "shared-ui-footer": "libs/shared/ui-footer",

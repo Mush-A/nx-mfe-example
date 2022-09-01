@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@govi/features/feature-dashboard": [
+        "libs/features/feature-dashboard/src/index.ts"
+      ],
       "@govi/shared/dashboard/ui-last-value": [
         "libs/shared/dashboard/ui-last-value/src/index.ts"
       ],
